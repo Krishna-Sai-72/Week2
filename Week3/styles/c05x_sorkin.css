@@ -1,0 +1,74 @@
+
+html {
+    background-color: yellow;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+        font-size: 100%;
+        background-color: white;
+        border-width: 10px;
+        border-color: blue;
+        border-style: double;
+        margin: auto;
+        width: 650px;
+}
+
+footer{
+    border-top-style: solid;
+    text-align: center;
+    margin-left: 25;
+    margin-right: 25;
+    margin: 1em;
+    font-size: 90%;
+    font-weight: bold;
+    border-color: blue;
+}
+
+main {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size: 150%;
+    color: blue;
+}
+
+h2 {
+    font-size: 125%;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    font-size: 115%;
+}
+
+.phara {
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.cite {
+    text-align: right;
+    color: blue;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+image {
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 5px;
+        padding: 2em;
+}
+
+ul {
+  margin-left: -20px;
+}
+
+li {
+  padding-left: 0px;
+}
